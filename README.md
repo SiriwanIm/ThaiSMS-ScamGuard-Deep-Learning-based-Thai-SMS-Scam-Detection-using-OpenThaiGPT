@@ -10,11 +10,8 @@ The dataset used in this project was compiled from two primary sources:
 2.  **Publicly available datasets** identified through Google searches.
 
 The SMS messages were labeled into two categories: _“Scam_” and _“Non-Scam_”. The distribution of data is summarized as follows:
-Class	Count
-1 : Scam	306
-0: Non-Scam	309
-Total	615
 
+<img width="297" alt="Data" src="https://github.com/user-attachments/assets/ae96cb8a-733f-4bda-ab82-01b1150d4f48" />
 
 
 
