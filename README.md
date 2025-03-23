@@ -15,7 +15,7 @@ The SMS messages were labeled into two categories: _“Scam_” and _“Non-Scam
 
 
 
-## **Proposed Method: (Solution, Architecture, Structure of code)**
+## **Proposed Method: (Solution, Architecture, Structure of code): **
 **1. Data Splitting**
 
 In this project, the data splitting is performed using stratified train-test-validation split, which is crucial for maintaining the class distribution across different datasets. The data was split into: Training Set 70%, Validation Set 10%, and Test Set 20%. Stratification strategy was applied (_stratify=df['label']) to_ ensure that the class distribution is maintained across all splits, particularly important for binary classification of "Scam" vs "Non-Scam" SMS.
