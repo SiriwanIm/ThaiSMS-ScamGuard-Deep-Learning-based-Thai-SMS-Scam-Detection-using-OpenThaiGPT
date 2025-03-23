@@ -6,7 +6,7 @@ This project presents ThaiSMS-ScamGuard, a deep learning-based system for detect
 ## **Dataset:**
 The dataset used in this project was compiled from two primary sources:
 
-1.  **Actual SMS messages** that team members have received.
+1.  **Actual SMS messages** 
 2.  **Publicly available datasets** identified through Google searches.
 
 The SMS messages were labeled into two categories: _“Scam_” and _“Non-Scam_”. The distribution of data is summarized as follows:
